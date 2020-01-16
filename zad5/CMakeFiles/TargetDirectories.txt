@@ -1,0 +1,7 @@
+/home/cisco/Pulpit/zad5/CMakeFiles/install/strip.dir
+/home/cisco/Pulpit/zad5/CMakeFiles/edit_cache.dir
+/home/cisco/Pulpit/zad5/CMakeFiles/myProgram.dir
+/home/cisco/Pulpit/zad5/CMakeFiles/rebuild_cache.dir
+/home/cisco/Pulpit/zad5/CMakeFiles/list_install_components.dir
+/home/cisco/Pulpit/zad5/CMakeFiles/install/local.dir
+/home/cisco/Pulpit/zad5/CMakeFiles/install.dir

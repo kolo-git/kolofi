@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cisco/Pulpit/zad5/src/address.cpp
+string
+-
+
+/home/cisco/Pulpit/zad5/src/employee.cpp
+address.h
+/home/cisco/Pulpit/zad5/src/address.h
+
+/home/cisco/Pulpit/zad5/src/main.cpp
+employee.h
+/home/cisco/Pulpit/zad5/src/employee.h
+address.h
+/home/cisco/Pulpit/zad5/src/address.h
+
+include/address.h
+stdio.h
+-
+
+include/employee.h
+
